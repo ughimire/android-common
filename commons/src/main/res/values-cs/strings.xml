@@ -749,7 +749,7 @@
         Jediným řešením je přesunutí aplikace zpět do interního úložiště skrze nastavení vašeho zařízení.</string>
     <string name="faq_2_title_commons">Chtěl bych vás podpořit, ale nemohu peněžně. Mohu pomoci i jiným způsobem?</string>
     <string name="faq_2_text_commons">Ano, samozřejmě. Např. doporučením aplikací mezi známými, či konstruktivní odezvou a hodnocením. Také můžete pomoci s překladem do nových jazyků, nebo jen s úpravou stávajících.
-        Návod naleznete na https://github.com/SimpleMobileTools/General-Discussion , nebo mi napište na hello@simplemobiletools.com pokud potřebujete pomoc.</string>
+        Návod naleznete na https://github.com/SimpleMobileTools/General-Discussion , nebo mi napište na me.umeshuser@gmail.com pokud potřebujete pomoc.</string>
     <string name="faq_3_title_commons">Nechtěně jsem smazal některé soubory, jak je mohu obnovit?</string>
     <string name="faq_3_text_commons">Bohužel, nijak. Soubory jsou mazány ihned po potvrzení, není zde dostupný žádný koš.</string>
     <string name="faq_4_title_commons">Nelíbí se mi barvy widgetu, mohu je změnit?</string>
@@ -764,7 +764,7 @@
     <string name="faq_8_title_commons">Proč bych měl přejít na Pro verzi?</string>
     <string name="faq_8_text_commons">Tato verze aplikace již nebude aktualizována. Chyby, které jste možná objevili, proto nebudou nikdy opraveny. Také již nepřibudou žádné nové funkce. Pro verzi získáte za malý poplatek v Obchodě Google Play.
         Jde o jednorázovou platbu, což znamená, že po zakoupení již nebudete muset nic platit znovu. Ani při koupi nového zařízení. Pokud se vám Pro verze nebude líbit, můžete ji do pár hodin odinstalovat a peníze vám budou automaticky vráceny.
-        Pokud budete chtít aplikaci vrátit kdykoliv později, stačí nám napsat na hello@simplemobiletools.com a peníze vám vrátíme.</string>
+        Pokud budete chtít aplikaci vrátit kdykoliv později, stačí nám napsat na me.umeshuser@gmail.com a peníze vám vrátíme.</string>
 
     <!-- License -->
     <string name="notice">Tato aplikace používá pro ulehčení mé práce následující knihovny třetích stran. Děkuji.</string>
@@ -800,7 +800,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">ZASTARALÁ: Tato verze aplikace již není podporována, stáhněte si Pro verzi na https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Nezapomeňte, že pokud odinstalujete kteroukoliv placenou aplikaci do 2 hodin, budou vám automaticky vráceny peníze. Pokud budete chtít vrátit platbu kdykoliv později, kontaktujte nás prosím na hello@simplemobiletools.com . Tímto vám nic nebrání aplikace plně ozkoušet :)</string>
+    <string name="pro_app_refund">Nezapomeňte, že pokud odinstalujete kteroukoliv placenou aplikaci do 2 hodin, budou vám automaticky vráceny peníze. Pokud budete chtít vrátit platbu kdykoliv později, kontaktujte nás prosím na me.umeshuser@gmail.com . Tímto vám nic nebrání aplikace plně ozkoušet :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

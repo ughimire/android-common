@@ -714,7 +714,7 @@
     <string name="faq_1_text_commons">Todennäköisesti asensit sovelluksen ulkoiselle muistikortille. Tässä tapauksessa ainoa vaihtoehto on uudelleenasentaa sovellus laitteen sisäiseen tallennustilaan.</string>
     <string name="faq_2_title_commons">Haluan tukea sinua, mutta minulla ei ole varaa lahjoittaa. Voinko auttaa jotenkin muuten?</string>
     <string name="faq_2_text_commons">Tottakai. Voit kertoa ystävillesi sovelluksista ja antaa hyviä arvosteluja ja palautetta. Voit myös auttaa kääntämällä sovelluksen uudelle kielelle tai korjata käännösvirheitä.
-        Ohjeet löydät täältä https://github.com/SimpleMobileTools/General-Discussion , tai lähettämällä viestiä osoitteeseen hello@simplemobiletools.com jos Sinulla on kysyttävää.</string>
+        Ohjeet löydät täältä https://github.com/SimpleMobileTools/General-Discussion , tai lähettämällä viestiä osoitteeseen me.umeshuser@gmail.com jos Sinulla on kysyttävää.</string>
     <string name="faq_3_title_commons">Poistin tiedostoja vahingossa, miten palautan ne?</string>
     <string name="faq_3_text_commons">Valitettavasti se ei ole mahdollista. Tiedostot poistetaan aina pysyvästi.</string>
     <string name="faq_4_title_commons">En pidä widgetin väreistä, voinko vaihtaa ne?</string>
@@ -729,7 +729,7 @@
     <string name="faq_8_title_commons">Why should I upgrade to the Pro version?</string>
     <string name="faq_8_text_commons">As your app version is no longer updated, the bugs you have maybe spotted will never be fixed. There will also be no new functions added. You can purchase the Pro version on Google Play for a small sum of money.
         It is a one time payment, which means that once you purchase it, you will never have to pay again. Not even after getting a new device. If you won\'t like the Pro version, you can just uninstall it within a few hours and you will automatically get your money back.
-        If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it.</string>
+        If you want a refund anytime later, just contact us at me.umeshuser@gmail.com and you will get it.</string>
 
     <!-- License -->
     <string name="notice">Tämä sovellus käyttää kolmannen osapuolen lisenssejä tehdäkseni elämästäni helpompaa. Kiitos.</string>
@@ -765,7 +765,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">DEPRECATED: This version of the app is no longer maintained, get the Pro version at https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it. That makes it easy to try it out :)</string>
+    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at me.umeshuser@gmail.com and you will get it. That makes it easy to try it out :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

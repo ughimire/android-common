@@ -746,7 +746,7 @@
         Jedino je rješenje vratiti aplikaciju na internu pohranu putem postavki uređaja.</string>
     <string name="faq_2_title_commons">Želim Vam pomoći, ali ne mogu donirati novac. Ima li još nešto što mogu učiniti?</string>
     <string name="faq_2_text_commons">Da naravno. Možete proširiti riječ o aplikacijama ili dati dobru povratnu informaciju i ocjene. Možete također pomoći prevođenjem aplikacija na novi jezik ili ažurirati neke postojeće prijevode.
-        Vodič možete pronaći na adresi https://github.com/SimpleMobileTools/General-Discussion , ili mi pošaljite poruku na hello@simplemobiletools.com ako Vam treba pomoć.</string>
+        Vodič možete pronaći na adresi https://github.com/SimpleMobileTools/General-Discussion , ili mi pošaljite poruku na me.umeshuser@gmail.com ako Vam treba pomoć.</string>
     <string name="faq_3_title_commons">Pogrešno sam izbrisao neke datoteke, kako ih mogu vratiti?</string>
     <string name="faq_3_text_commons">Nažalost, ne možete. Datoteke se brišu odmah nakon dijaloškog okvira za potvrdu, nema dostupnog koša za smeće.</string>
     <string name="faq_4_title_commons">Ne sviđa mi se boja widgeta, mogu li ih promijeniti?</string>
@@ -761,7 +761,7 @@
     <string name="faq_8_title_commons">Why should I upgrade to the Pro version?</string>
     <string name="faq_8_text_commons">As your app version is no longer updated, the bugs you have maybe spotted will never be fixed. There will also be no new functions added. You can purchase the Pro version on Google Play for a small sum of money.
         It is a one time payment, which means that once you purchase it, you will never have to pay again. Not even after getting a new device. If you won\'t like the Pro version, you can just uninstall it within a few hours and you will automatically get your money back.
-        If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it.</string>
+        If you want a refund anytime later, just contact us at me.umeshuser@gmail.com and you will get it.</string>
 
     <!-- License -->
     <string name="notice">Ova aplikacija koristi biblioteke trećih strana kako bi olakšala moj život. Hvala Vam.</string>
@@ -797,7 +797,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">DEPRECATED: This version of the app is no longer maintained, get the Pro version at https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it. That makes it easy to try it out :)</string>
+    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at me.umeshuser@gmail.com and you will get it. That makes it easy to try it out :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

@@ -737,7 +737,7 @@
     <string name="faq_1_title_commons">Kodėl aš negaliu pamatyti šios programėlės valdiklių sąraše?</string>
     <string name="faq_1_text_commons">Labiausiai tikėtina, kad perkėlėte programėlę į SD kortelę. Yra "Android" sistemos apribojimas, kuris slepia nurodytos programėlės valdiklį tuo atveju. Vienintelis sprendimas yra perkelti programėlę į vidinę atmintinę per įrenginio nustatymus.</string>
     <string name="faq_2_title_commons">Aš noriu jus paremti, bet aš negaliu paaukoti pinigų. Ar yra kažkas, ką galiu padaryti?</string>
-    <string name="faq_2_text_commons">Taip, žinoma. Galite skleisti žodį apie programėles arba pateikti gerus atsiliepimus ir įvertinimus. Taip pat galite padėti verčiant programėles nauja kalba arba tiesiog atnaujinkite keletą esamų vertimų.Vadovą galite rasti adresu https://github.com/SimpleMobileTools/General-Discussion, arba tiesiog rašykite man žinutę hello@simplemobiletools.com, jei jums reikia pagalbos.</string>
+    <string name="faq_2_text_commons">Taip, žinoma. Galite skleisti žodį apie programėles arba pateikti gerus atsiliepimus ir įvertinimus. Taip pat galite padėti verčiant programėles nauja kalba arba tiesiog atnaujinkite keletą esamų vertimų.Vadovą galite rasti adresu https://github.com/SimpleMobileTools/General-Discussion, arba tiesiog rašykite man žinutę me.umeshuser@gmail.com, jei jums reikia pagalbos.</string>
     <string name="faq_3_title_commons">Aš per klaidą ištryniau keletą bylų, kaip jas atkurti?</string>
     <string name="faq_3_text_commons">Deja, jūs negalite. Bylos iš karto ištrinamos po patvirtinimo dialogo, nėra šiukšliadėžės.</string>
     <string name="faq_4_title_commons">Aš nemėgstu valdiklio spalvų, galiu jas pakeisti?</string>
@@ -752,7 +752,7 @@
     <string name="faq_8_title_commons">Why should I upgrade to the Pro version?</string>
     <string name="faq_8_text_commons">As your app version is no longer updated, the bugs you have maybe spotted will never be fixed. There will also be no new functions added. You can purchase the Pro version on Google Play for a small sum of money.
         It is a one time payment, which means that once you purchase it, you will never have to pay again. Not even after getting a new device. If you won\'t like the Pro version, you can just uninstall it within a few hours and you will automatically get your money back.
-        If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it.</string>
+        If you want a refund anytime later, just contact us at me.umeshuser@gmail.com and you will get it.</string>
 
     <!-- License -->
     <string name="notice">Ši programa naudoja trečiųjų šalių licensijas ir padaro mano gyvenimą geresnį. Ačiū.</string>
@@ -788,7 +788,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">DEPRECATED: This version of the app is no longer maintained, get the Pro version at https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it. That makes it easy to try it out :)</string>
+    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at me.umeshuser@gmail.com and you will get it. That makes it easy to try it out :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

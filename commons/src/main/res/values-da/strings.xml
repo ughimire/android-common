@@ -714,7 +714,7 @@
     <string name="faq_1_text_commons">Det er sikkert fordi du har flyttet appen til et SD-kort. Der er en begrænsning i Androidsystemet der i så fald skjuler appens widget. Eneste løsning er at flytte appen tilbage til det interne lager via indstillingerne på din enhed.</string>
     <string name="faq_2_title_commons">Jeg vil gerne støtte dig, men jeg kan ikke donere penge. Er der andet jeg kan gøre?</string>
     <string name="faq_2_text_commons">Ja, selvfølgelig. Du kan fortælle andre om appsene eller give god feedback og gode vurderinger. Du kan også hjælpe med at oversætte til et nyt sprog, eller med at opdatere en eksisterende oversættelse.
-        Du kan finde en guide på siden https://github.com/SimpleMobileTools/General-Discussion, eller send mig en besked på hello@simplemobiletools.com hvis du har brug for hjælp.</string>
+        Du kan finde en guide på siden https://github.com/SimpleMobileTools/General-Discussion, eller send mig en besked på me.umeshuser@gmail.com hvis du har brug for hjælp.</string>
     <string name="faq_3_title_commons">Jeg fik slettet nogle filer ved en fejl, hvordan kan jeg gendanne dem?</string>
     <string name="faq_3_text_commons">Det kan du desværre ikke. Filer er væk så snart sletningen er bekræftet, og der er ingen papirkurv.</string>
     <string name="faq_4_title_commons">Jeg bryder mig ikke om farverne på widget\'en, kan jeg ændre dem?</string>
@@ -729,7 +729,7 @@
     <string name="faq_8_title_commons">Hvorfor skulle jeg opgradere til Pro-versionen?</string>
     <string name="faq_8_text_commons">Da din version af appen ikke opdateres længere, kan den indeholde fejl der aldrig bliver rettet. Der vil heller ikke komme nye funktioner til den. Du kan købe Pro-versionen på Google Play for et lille beløb.
         Det er en engangsinvestering, har du betalt een gang skal du aldrig gøre det igen, heller ikke hvis du skifter mobil eller tablet. Kan du ikke lide Pro-versionen, kan du afinstallere den indenfor nogle få timer og du vil automatisk få dine penge tilbage.
-        Vil du på et senere tidspunkt have pengene refunderet, skal du blot sende en mail til hello@simplemobiletools.com, så klarer vi det.</string>
+        Vil du på et senere tidspunkt have pengene refunderet, skal du blot sende en mail til me.umeshuser@gmail.com, så klarer vi det.</string>
 
     <!-- License -->
     <string name="notice">Denne app bruger følgende 3.-parts biblioteker der gør at mit liv bliver lidt enklere. Tak.</string>
@@ -765,7 +765,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">FORÆLDET: Denne version af appen vedligeholdes ikke længere, skift til Pro-versionen her https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Husk at hvis du afinstallerer en betalt app indenfor 2 timer, får du automatisk pengene tilbage. Vil du have refunderet beløbet på et senere tidspunkt, så send en mail til hello@simplemobiletools.com . På den måde kan du prøvekøre appen uden omkostninger :)</string>
+    <string name="pro_app_refund">Husk at hvis du afinstallerer en betalt app indenfor 2 timer, får du automatisk pengene tilbage. Vil du have refunderet beløbet på et senere tidspunkt, så send en mail til me.umeshuser@gmail.com . På den måde kan du prøvekøre appen uden omkostninger :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">En gruppe simple, open source apps til Android med widgets, der kan tilpasses, uden reklamer og unødvendige tilladelser.</string>

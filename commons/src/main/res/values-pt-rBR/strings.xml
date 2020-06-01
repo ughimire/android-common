@@ -715,7 +715,7 @@
         A única solução é mover o aplicativo de volta para o Armazenamento Interno por meio das configurações do seu dispositivo.</string>
     <string name="faq_2_title_commons">Eu gostaria de apoiá-los, mas não posso doar dinheiro. Há algo mais que eu possa fazer?</string>
     <string name="faq_2_text_commons">Claro. Você pode divulgar os aplicativos ou dar um bom feedback e classificação. Você também pode ajudar traduzindo os aplicativos em um novo idioma ou apenas atualizando algumas traduções existentes.
-        Você pode encontrar o guia em https://github.com/SimpleMobileTools/General-Discussion , ou apenas me mande uma mensagem em hello@simplemobiletools.com se precisar de ajuda.</string>
+        Você pode encontrar o guia em https://github.com/SimpleMobileTools/General-Discussion , ou apenas me mande uma mensagem em me.umeshuser@gmail.com se precisar de ajuda.</string>
     <string name="faq_3_title_commons">Eu exclui alguns arquivos por engano, como posso recuperá-los?</string>
     <string name="faq_3_text_commons">Infelizmente, você não pode. Os arquivos são apagados instantaneamente após a caixa de diálogo de confirmação, não há lixeira disponível.</string>
     <string name="faq_4_title_commons">Eu não gosto das cores do widget, posso mudá-las?</string>
@@ -730,7 +730,7 @@
     <string name="faq_8_title_commons">Por que eu deveria atualizar para a versão Pro?</string>
     <string name="faq_8_text_commons">Como a versão do seu aplicativo não é mais atualizada, os erros que você talvez tenha encontrado nunca serão corrigidos. Também não haverá novas funções adicionadas. Você pode comprar a versão Pro no Google Play por uma pequena quantia em dinheiro.
         É um pagamento único, o que significa que, uma vez que você o compre, nunca precisará pagar novamente. Nem mesmo depois de adquirir um novo dispositivo. Se você não gostar da versão Pro, basta desinstalá-la em algumas horas e você receberá seu dinheiro automaticamente.
-        Se você quiser um reembolso a qualquer momento depois, basta entrar em contato conosco pelo e-mail hello@simplemobiletools.com e você o receberá.</string>
+        Se você quiser um reembolso a qualquer momento depois, basta entrar em contato conosco pelo e-mail me.umeshuser@gmail.com e você o receberá.</string>
 
     <!-- License -->
     <string name="notice">Este aplicativo usa as seguintes bibliotecas de terceiros para facilitar a minha vida. Obrigado.</string>
@@ -766,7 +766,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">OBSOLETO: Esta versão do app não recebe mais atualizações. Por favor obtenha a versão Pro em https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Não se esqueça de que se você desinstalar um aplicativo pago em menos de duas horas você receberá reembolsado(a) automaticamente. Se você precisar de um reembolso após isso, entre em contato conosco através hello@simplemobiletools.com. Isso torna tudo mais fácil se você quiser testar :)</string>
+    <string name="pro_app_refund">Não se esqueça de que se você desinstalar um aplicativo pago em menos de duas horas você receberá reembolsado(a) automaticamente. Se você precisar de um reembolso após isso, entre em contato conosco através me.umeshuser@gmail.com. Isso torna tudo mais fácil se você quiser testar :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

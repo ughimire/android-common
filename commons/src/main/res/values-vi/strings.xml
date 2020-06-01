@@ -715,7 +715,7 @@
          trong trường hợp đó. Giải pháp duy nhất là chuyển ứng dụng trở lại Bộ nhớ trong thông qua cài đặt thiết bị của bạn.</string>
     <string name="faq_2_title_commons">Tôi muốn hỗ trợ bạn, nhưng tôi không thể quyên góp tiền. Tôi có thể làm gì khác không?</string>
     <string name="faq_2_text_commons">Phải, tất nhiên. Bạn có thể truyền bá về các ứng dụng hoặc đưa ra phản hồi và xếp hạng tốt. Bạn cũng có thể giúp đỡ bằng cách dịch các ứng dụng bằng ngôn ngữ mới hoặc chỉ cập nhật một số bản dịch hiện có.
-         Bạn có thể tìm thấy hướng dẫn tại https://github.com/SimpleMobileTools/General-Discussion hoặc chỉ cần gửi tin nhắn cho tôi tại hello@simplemobiletools.com nếu bạn cần trợ giúp.</string>
+         Bạn có thể tìm thấy hướng dẫn tại https://github.com/SimpleMobileTools/General-Discussion hoặc chỉ cần gửi tin nhắn cho tôi tại me.umeshuser@gmail.com nếu bạn cần trợ giúp.</string>
     <string name="faq_3_title_commons">Tôi đã xóa một số tệp do nhầm lẫn, làm cách nào để khôi phục chúng?</string>
     <string name="faq_3_text_commons">Đáng buồn thay, bạn không thể. Các tập tin sẽ bị xóa ngay lập tức sau hộp thoại xác nhận, không có thùng rác nào có sẵn.</string>
     <string name="faq_4_title_commons">Tôi không thích màu của widget, tôi có thể thay đổi chúng không?</string>
@@ -730,7 +730,7 @@
     <string name="faq_8_title_commons">Tại sao tôi nên nâng cấp lên phiên bản Pro?</string>
     <string name="faq_8_text_commons">Vì phiên bản ứng dụng của bạn không còn được cập nhật, các lỗi bạn có thể phát hiện sẽ không bao giờ được sửa. Cũng sẽ không có chức năng mới được thêm vào. Bạn có thể mua phiên bản Pro trên Google Play với một khoản tiền nhỏ.
          Đó là thanh toán một lần, có nghĩa là một khi bạn mua nó, bạn sẽ không bao giờ phải mua lại. Ngay cả sau khi nhận được một thiết bị mới. Nếu bạn không thích phiên bản Pro, bạn có thể gỡ cài đặt trong vòng vài giờ và bạn sẽ tự động lấy lại tiền.
-         Nếu bạn muốn hoàn lại tiền bất cứ lúc nào sau đó, chỉ cần liên hệ với chúng tôi tại hello@simplemobiletools.com và bạn sẽ nhận được nó.</string>
+         Nếu bạn muốn hoàn lại tiền bất cứ lúc nào sau đó, chỉ cần liên hệ với chúng tôi tại me.umeshuser@gmail.com và bạn sẽ nhận được nó.</string>
 
     <!-- License -->
     <string name="notice">Ứng dụng này sử dụng các thư viện bên thứ ba sau đây để giúp tôi thực hiện dễ dàng hơn. Cảm ơn.</string>
@@ -766,7 +766,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">THÔNG BÁO: Phiên bản của ứng dụng này không còn được duy trì, hãy tải phiên bản Pro tại https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Đừng quên rằng nếu bạn gỡ cài đặt bất kỳ ứng dụng phải trả tiền nào trong vòng 2 giờ, bạn sẽ tự động được hoàn lại tiền. Nếu bạn muốn hoàn lại tiền bất cứ lúc nào sau đó, chỉ cần liên hệ với chúng tôi tại hello@simplemobiletools.com và bạn sẽ nhận được nó.Thật dễ dàng đúng không :)</string>
+    <string name="pro_app_refund">Đừng quên rằng nếu bạn gỡ cài đặt bất kỳ ứng dụng phải trả tiền nào trong vòng 2 giờ, bạn sẽ tự động được hoàn lại tiền. Nếu bạn muốn hoàn lại tiền bất cứ lúc nào sau đó, chỉ cần liên hệ với chúng tôi tại me.umeshuser@gmail.com và bạn sẽ nhận được nó.Thật dễ dàng đúng không :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

@@ -714,7 +714,7 @@
         Az egyetlen megoldás az alkalmazás visszahelyezése a belső tárolóra az eszköz beállításain keresztül.</string>
     <string name="faq_2_title_commons">Szeretném támogatni, de nem tudok pénzt adni. Van még valami, amit tehetek?</string>
     <string name="faq_2_text_commons">Természetesen. Megoszthatja az alkalmazásokról szóló információkat vagy visszajelzéseket és értékeléseket adhat. Segítséget is nyújthat azzal is, hogy az alkalmazásokat egy új nyelvre fordítja, vagy csak frissíti a meglévő fordításokat.
-        Az útmutatót megtalálhatja a https://github.com/SimpleMobileTools/General-Discussion címen, vagy csak írjon egy üzenetet a hello@simplemobiletools.com, ha segítségre van szüksége.</string>
+        Az útmutatót megtalálhatja a https://github.com/SimpleMobileTools/General-Discussion címen, vagy csak írjon egy üzenetet a me.umeshuser@gmail.com, ha segítségre van szüksége.</string>
     <string name="faq_3_title_commons">Tévedésből töröltem néhány fájlt, hogyan tudom visszaszerezni?</string>
     <string name="faq_3_text_commons">Sajnos nem lehet. A fájlok azonnal törlődnek a megerősítő párbeszédablak után, ott nincs elérhető Lomtár.</string>
     <string name="faq_4_title_commons">Nem tetszik a widget színe, meg tudom változtatni őket?</string>
@@ -728,7 +728,7 @@
     <string name="faq_8_title_commons">Why should I upgrade to the Pro version?</string>
     <string name="faq_8_text_commons">As your app version is no longer updated, the bugs you have maybe spotted will never be fixed. There will also be no new functions added. You can purchase the Pro version on Google Play for a small sum of money.
         It is a one time payment, which means that once you purchase it, you will never have to pay again. Not even after getting a new device. If you won\'t like the Pro version, you can just uninstall it within a few hours and you will automatically get your money back.
-        If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it.</string>
+        If you want a refund anytime later, just contact us at me.umeshuser@gmail.com and you will get it.</string>
 
     <!-- License -->
     <string name="notice">Ez az alkalmazás a következő harmadik fél könyvtárait használja az életem megkönnyítésére. Köszönöm.</string>
@@ -764,7 +764,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">ELAVULT: Az alkalmazás ezen verziója már nem fog frissülni, a Pro verziót a https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro címen találja meg.</string>
-    <string name="pro_app_refund">Ne felejtse el, hogy ha 2 órán belül eltávolítja a fizetős alkalmazásunkat, akkor automatikusan visszatérítjük az árát. Ha később bármikor mégis visszatérítést szeretne, lépjen kapcsolatba velünk a hello@simplemobiletools.com címen, és visszakapja. Ez is megkönnyíti a kipróbálást :)</string>
+    <string name="pro_app_refund">Ne felejtse el, hogy ha 2 órán belül eltávolítja a fizetős alkalmazásunkat, akkor automatikusan visszatérítjük az árát. Ha később bármikor mégis visszatérítést szeretne, lépjen kapcsolatba velünk a me.umeshuser@gmail.com címen, és visszakapja. Ez is megkönnyíti a kipróbálást :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

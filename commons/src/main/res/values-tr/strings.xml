@@ -714,7 +714,7 @@
     <string name="faq_1_text_commons">Büyük olasılıkla uygulamayı SD karta taşıdığınız içindir. Bu durumda verilen uygulama widget\'larını gizleyen bir Android sistem sınırlaması var. Tek çözüm, cihaz ayarlarınızı kullanarak uygulamayı Dahili Depolama birimine geri taşımaktır.</string>
     <string name="faq_2_title_commons">Seni desteklemek istiyorum ama para bağışlayamıyorum. Yapabileceğim başka bir şey var mı?</string>
     <string name="faq_2_text_commons">Evet, tabi ki. Uygulamalar hakkında tanıtım yapabilir veya iyi geribildirim ve derecelendirmeler verebilirsiniz.
-        Kılavuzu https://github.com/SimpleMobileTools/General-Discussion adresinde bulabilir, veya yardıma ihtiyacınız varsa bana hello@simplemobiletools.com adresinden bir mesaj gönderebilirsiniz.</string>
+        Kılavuzu https://github.com/SimpleMobileTools/General-Discussion adresinde bulabilir, veya yardıma ihtiyacınız varsa bana me.umeshuser@gmail.com adresinden bir mesaj gönderebilirsiniz.</string>
     <string name="faq_3_title_commons">Bazı dosyaları yanlışlıkla sildim, onları nasıl kurtarabilirim?</string>
     <string name="faq_3_text_commons">Ne yazık ki, yapamazsınız. Onay penceresinden sonra dosyalar anında silinir, kullanılabilir çöp kutusu yoktur.</string>
     <string name="faq_4_title_commons">Widget renklerini beğenmedim, değiştirebilir miyim?</string>
@@ -729,7 +729,7 @@
     <string name="faq_8_title_commons">Neden Pro sürümüne yükseltmeliyim?</string>
     <string name="faq_8_text_commons">Uygulama sürümünüz artık güncellenmediğinden, tespit ettiğiniz hatalar asla düzeltilmeyecektir. Ayrıca yeni işlevler eklenmeyecektir. Pro sürümünü Google Play\'den az miktarda para karşılığında satın alabilirsiniz.
         Bir kerelik ödeme, yani bir kez satın aldığınızda, bir daha asla ödeme yapmanız gerekmeyeceği anlamına gelir. Yeni bir cihaz aldıktan sonra bile. Pro sürümünü beğenmediyseniz, birkaç saat içinde kaldırabilirsiniz ve paranızı otomatik olarak geri alırsınız.
-        Daha sonra istediğiniz zaman geri ödeme almak isterseniz, hello@simplemobiletools.com adresinden bizimle iletişime geçmeniz yeterlidir.</string>
+        Daha sonra istediğiniz zaman geri ödeme almak isterseniz, me.umeshuser@gmail.com adresinden bizimle iletişime geçmeniz yeterlidir.</string>
 
     <!-- License -->
     <string name="notice">Bu uygulama hayatımı kolaylaştırmak için aşağıdaki üçüncü taraf kitaplıklarını kullanır. Teşekkürler.</string>
@@ -765,7 +765,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">Kullanımdan kaldırıldı: Uygulamanın bu sürümü artık sağlanmıyor, Pro sürümünü şuradan indirin: https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Ücretli herhangi bir uygulamayı 2 saat içinde kaldırırsanız, otomatik olarak iade edileceğini unutmayın. İstediğiniz zaman geri ödeme almak isterseniz, hello@simplemobiletools.com adresinden bizimle iletişime geçmeniz yeterli olacaktır. Bu denemeyi kolaylaştırır :)</string>
+    <string name="pro_app_refund">Ücretli herhangi bir uygulamayı 2 saat içinde kaldırırsanız, otomatik olarak iade edileceğini unutmayın. İstediğiniz zaman geri ödeme almak isterseniz, me.umeshuser@gmail.com adresinden bizimle iletişime geçmeniz yeterli olacaktır. Bu denemeyi kolaylaştırır :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

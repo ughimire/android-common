@@ -740,7 +740,7 @@
     <string name="faq_1_title_commons">Dlaczego nigdzie nie widzę widżetu aplikacji?</string>
     <string name="faq_1_text_commons">Zapewne dlatego, że aplikacja została zainstalowana na karcie pamięci. Jedynym rozwiązaniem problemu jest przeniesienie aplikacji do pamięci wewnętrznej. Jest to ograniczenie systemu.</string>
     <string name="faq_2_title_commons">Chcę was wesprzeć, ale jestem bez grosza przy duszy. Mogę jakoś to zrobić inaczej?</string>
-    <string name="faq_2_text_commons">Oczywiście. Możesz powiedzieć światu o naszych aplikacjach, podzielić się opinią i oceną w Sklepie Google Play, lub też wspomóc tłumaczenie aplikacji na nowe języki (bądź poprawić już istniejące tłumaczenia). Instrukcję znajdziesz pod adresem https://github.com/SimpleMobileTools/General-Discussion . Możesz też napisać do nas na adres hello@simplemobiletools.com , jeśli potrzebujesz pomocy.</string>
+    <string name="faq_2_text_commons">Oczywiście. Możesz powiedzieć światu o naszych aplikacjach, podzielić się opinią i oceną w Sklepie Google Play, lub też wspomóc tłumaczenie aplikacji na nowe języki (bądź poprawić już istniejące tłumaczenia). Instrukcję znajdziesz pod adresem https://github.com/SimpleMobileTools/General-Discussion . Możesz też napisać do nas na adres me.umeshuser@gmail.com , jeśli potrzebujesz pomocy.</string>
     <string name="faq_3_title_commons">Usunęły mi się przypadkowo jakieś pliki. Mogę je jakoś odzyskać?</string>
     <string name="faq_3_text_commons">Pliki są usuwane zaraz po kliknięciu w oknie potwierdzającym. System Android nie ma wbudowanego kosza.</string>
     <string name="faq_4_title_commons">Nie za bardzo podobają mi się domyślne kolory widżetów. Mogę je jakoś zmienić?</string>
@@ -755,7 +755,7 @@
     <string name="faq_8_title_commons">Why should I upgrade to the Pro version?</string>
     <string name="faq_8_text_commons">As your app version is no longer updated, the bugs you have maybe spotted will never be fixed. There will also be no new functions added. You can purchase the Pro version on Google Play for a small sum of money.
         It is a one time payment, which means that once you purchase it, you will never have to pay again. Not even after getting a new device. If you won\'t like the Pro version, you can just uninstall it within a few hours and you will automatically get your money back.
-        If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it.</string>
+        If you want a refund anytime later, just contact us at me.umeshuser@gmail.com and you will get it.</string>
 
     <!-- License -->
     <string name="notice">Aplikacja korzysta z następujących bibliotek innych firm:</string>
@@ -791,7 +791,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">DEPRECATED: This version of the app is no longer maintained, get the Pro version at https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it. That makes it easy to try it out :)</string>
+    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at me.umeshuser@gmail.com and you will get it. That makes it easy to try it out :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

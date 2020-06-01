@@ -714,7 +714,7 @@
     <string name="faq_1_text_commons">Waarschijnlijk is de app verplaatst naar de SD-kaart. Android verbergt widgets van apps die zich bevinden op de SD-kaart. De enige oplossing is het verplaatsen van de app naar de Interne Opslag via de instellingen van Android.</string>
     <string name="faq_2_title_commons">Ik wil een bijdrage leveren, maar ik kan geen geld doneren. Kan ik iets anders doen?</string>
     <string name="faq_2_text_commons">Maar natuurlijk! Vertel anderen over deze apps of geef feedback en positieve beoordelingen. Ook het vertalen van de apps in een nieuwe taal of het bijwerken van bestaande vertalingen wordt gewaardeerd.
-        Een handleiding is te vinden op https://github.com/SimpleMobileTools/General-Discussion , of stuur me een bericht via hello@simplemobiletools.com voor hulp.</string>
+        Een handleiding is te vinden op https://github.com/SimpleMobileTools/General-Discussion , of stuur me een bericht via me.umeshuser@gmail.com voor hulp.</string>
     <string name="faq_3_title_commons">Ik heb per ongeluk bestanden verwijderd, hoe kan ik deze herstellen?</string>
     <string name="faq_3_text_commons">Dat gaat helaas niet lukken. Bestanden worden direct na bevestiging verwijderd; er is geen prullenbak.</string>
     <string name="faq_4_title_commons">Ik vind de kleuren van de widgets niet mooi, kan ik ze veranderen?</string>
@@ -729,7 +729,7 @@
     <string name="faq_8_title_commons">Waarom zou ik upgraden naar de Pro-versie?</string>
     <string name="faq_8_text_commons">Omdat deze versie van de app niet meer zal worden bijgewerkt, zullen eventuele fouten nooit meer worden opgelost. Ook zullen er geen nieuwe functies meer worden toegevoegd. De Pro-versie is voor een bescheiden bedrag te vinden in de Google Play Store.
         Dit bedrag hoeft maar een keer te worden betaald, daarna nooit meer. Ook niet voor nieuwe apparaten. Als de Pro-versie toch niet bevalt, deïnstalleer de app dan binnen enkele uren en het bedrag zal worden teruggestort.
-        Ook een latere restitutie is nog mogelijk. Neem hiervoor contact op via hello@simplemobiletools.com en het geld zal alsnog worden teruggestort.</string>
+        Ook een latere restitutie is nog mogelijk. Neem hiervoor contact op via me.umeshuser@gmail.com en het geld zal alsnog worden teruggestort.</string>
 
     <!-- License -->
     <string name="notice">Deze app maakt gebruik van de volgende libraries om het mij wat gemakkelijker te maken. Dank hiervoor.</string>
@@ -765,7 +765,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">VEROUDERD: Deze versie van de app wordt niet langer doorontwikkeld. De Pro-versie is de vinden op https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Bij het deïnstalleren van de app binnen 2 uur na aanschaf wordt het aankoopbedrag automatisch teruggestort. Wilt u op een later tijdstip een terugbetaling, neem dan contact op via hello@simplemobiletools.com en het wordt geregeld. Zodoende blijft het gemakkelijk om de app uit te proberen :)</string>
+    <string name="pro_app_refund">Bij het deïnstalleren van de app binnen 2 uur na aanschaf wordt het aankoopbedrag automatisch teruggestort. Wilt u op een later tijdstip een terugbetaling, neem dan contact op via me.umeshuser@gmail.com en het wordt geregeld. Zodoende blijft het gemakkelijk om de app uit te proberen :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Een collectie van eenvoudige open source Android-apps met widgets, zonder advertenties en zonder onnodige machtigingen.</string>

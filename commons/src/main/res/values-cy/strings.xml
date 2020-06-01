@@ -838,7 +838,7 @@
     <string name="faq_1_text_commons">Mwyaf debyg wyt wedi symud yr ap i gerdyn SD. Mae rhwystr yn system Android sy\'n cuddio teclynnau apiau sydd ar y cerdyn SD. Yr unig datrysiad yw mynd i osodiadau dy ddyfais a symud yr ap nôl i\'r storfa fewnol.</string>
     <string name="faq_2_title_commons">Dw i eisiau cefnogi, ond dw i methu rhoi arian. Oes rhywbeth arall galla\'i wneud?</string>
     <string name="faq_2_text_commons">Oes, wrth gwrs. Gallet ddweud wrth eraill mor dda yw\'r apiau neu roi adborth a sgôr da. Gallet hefyd helpu ehangu a chywiro cyfieithiadau i\'r Gymraeg a ieithoedd eraill.
-        Mae canllaw yma https://github.com/SimpleMobileTools/General-Discussion , neu anfona ebost ata\'i (yn Saesneg) hello@simplemobiletools.com os oes angen help.</string>
+        Mae canllaw yma https://github.com/SimpleMobileTools/General-Discussion , neu anfona ebost ata\'i (yn Saesneg) me.umeshuser@gmail.com os oes angen help.</string>
     <string name="faq_3_title_commons">Dw i wedi dileu ffeiliau ar gam. Sut ydw i\'n eu hadfer nhw?</string>
     <string name="faq_3_text_commons">Yn anffodus, nid yw\'n bosib. Mae ffeiliau yn cael eu dileu ar unwaith ar ôl y deialog cadarnhau. Does dim bin sbwriel.</string>
     <string name="faq_4_title_commons">Dw i\'m yn hoffi lliwiau\'r teclyn. Ga\'i newid nhw?</string>
@@ -853,7 +853,7 @@
     <string name="faq_8_title_commons">Why should I upgrade to the Pro version?</string>
     <string name="faq_8_text_commons">As your app version is no longer updated, the bugs you have maybe spotted will never be fixed. There will also be no new functions added. You can purchase the Pro version on Google Play for a small sum of money.
         It is a one time payment, which means that once you purchase it, you will never have to pay again. Not even after getting a new device. If you won\'t like the Pro version, you can just uninstall it within a few hours and you will automatically get your money back.
-        If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it.</string>
+        If you want a refund anytime later, just contact us at me.umeshuser@gmail.com and you will get it.</string>
 
     <!-- License -->
     <string name="notice">Mae\'r ap hwn yn defnyddio\'r llyfrgelloedd trydydd parti canlynol i wneud bywyd yn haws. Diolch am bob un.</string>
@@ -889,7 +889,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">DEPRECATED: This version of the app is no longer maintained, get the Pro version at https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at hello@simplemobiletools.com and you will get it. That makes it easy to try it out :)</string>
+    <string name="pro_app_refund">Don\'t forget that if you uninstall any paid app within 2 hours, you will automatically be refunded. If you want a refund anytime later, just contact us at me.umeshuser@gmail.com and you will get it. That makes it easy to try it out :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

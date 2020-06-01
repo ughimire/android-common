@@ -714,7 +714,7 @@
     <string name="faq_1_text_commons">Wahrscheinlich, weil du die App auf die Speicherkarte verschoben hast. In diesem Fall werden durch eine Einschränkung von Android die Widgets dieser App ausgeblendet. Die einzige Lösung ist die App über die Geräteeinstellungen wieder in den internen Speicher zu verschieben.</string>
     <string name="faq_2_title_commons">Ich will dich unterstützen, aber es ist mir nicht möglich Geld zu spenden. Gibt es eine andere Möglichkeit?</string>
     <string name="faq_2_text_commons">Ja, sicherlich. Du kannst die Apps weiterempfehlen oder gute Rückmeldung und Bewertungen geben. Du kannst ebenso helfen, indem du die Apps in neue Sprachen übersetzt oder vorhandene Übersetzungen aktualisierst.
-        Die Anleitung dazu findest du unter https://github.com/SimpleMobileTools/General-Discussion oder sende mir eine Nachricht an hello@simplemobiletools.com, falls du Hilfe benötigst.</string>
+        Die Anleitung dazu findest du unter https://github.com/SimpleMobileTools/General-Discussion oder sende mir eine Nachricht an me.umeshuser@gmail.com, falls du Hilfe benötigst.</string>
     <string name="faq_3_title_commons">Ich habe versehentlich einige Dateien gelöscht. Wie kann ich diese wiederherstellen?</string>
     <string name="faq_3_text_commons">Unglücklicherweise gar nicht. Dateien werden sofort nach dem Bestätigungsdialog gelöscht, sprich ein Papierkorb ist nicht vorhanden.</string>
     <string name="faq_4_title_commons">Ich mag die Farben des Widgets nicht. Kann ich sie wechseln?</string>
@@ -731,7 +731,7 @@
     <string name="faq_8_text_commons">Deine App wird keine weiteren Aktualisierungen erhalten. Bekannte und später gefundene Fehler werden nicht beseitigt werden. Es werden auch keine neuen Funktionen mehr hinzugefügt werden.
         Du kannst die Pro Version auf Google Play für einen kleinen Betrag kaufen. Dies ist eine Einmalzahlung. Auch nach einem Gerätewechsel kannst du weiter die Pro Version nutzen ohne erneute dafür bezahlen zu müssen.
         Sollte Dir die Pro Version nicht gefallen, kannst Du sie einfach innerhalb einiger Stunden deinstallieren und wirst Dein Geld automatisch zurück erhalten.
-        Möchtest du zu einem späteren Zeitpunkt dein Geld erstattet bekommen, dann kontaktiere uns einfach unter hello@simplemobiletools.com und du wirst sie bekommen.</string>
+        Möchtest du zu einem späteren Zeitpunkt dein Geld erstattet bekommen, dann kontaktiere uns einfach unter me.umeshuser@gmail.com und du wirst sie bekommen.</string>
 
     <!-- License -->
     <string name="notice">Diese App nutzt die folgenden Drittanbieterbibliotheken, die mein Leben einfacher machen. Danke!</string>
@@ -767,7 +767,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">Veraltet: Diese Version der App wird nicht länger unterstützt. Hol dir die Pro-Version unter https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Vergiss nicht, wenn du eine bezahlte App innerhalb von 2 Stunden deinstalliert, wird dir der Betrag erstattet. Wenn du später eine Rückerstattung möchtest, kontaktiere uns einfach unter hello@simplemobiletools.com und du wirst sie bekommen. Das macht es einfach, die App einfach auszuprobieren :)</string>
+    <string name="pro_app_refund">Vergiss nicht, wenn du eine bezahlte App innerhalb von 2 Stunden deinstalliert, wird dir der Betrag erstattet. Wenn du später eine Rückerstattung möchtest, kontaktiere uns einfach unter me.umeshuser@gmail.com und du wirst sie bekommen. Das macht es einfach, die App einfach auszuprobieren :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">A group of simple, open source Android apps with customizable widgets, without ads and unnecessary permissions.</string>

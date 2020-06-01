@@ -749,7 +749,7 @@
         Jediným riešením je presunutie apky späť na internú pamäť cez nastavnenia zariadenia.</string>
     <string name="faq_2_title_commons">Chcem vás podporiť, ale neviem poslať peniaze. Viem pre vás urobiť aj niečo iné?</string>
     <string name="faq_2_text_commons">Áno, samozrejme. Môžete napr. šíriť apky medzi známymi, alebo nám poslať užitočnú odozvu a hodnotenia. Viete pomôcť aj preložením apiek do nových jazykov, alebo upraviť existujúce preklady.
-        Návod nájdete na https://github.com/SimpleMobileTools/General-Discussion , alebo mi v prípade potreby pošlite email na hello@simplemobiletools.com.</string>
+        Návod nájdete na https://github.com/SimpleMobileTools/General-Discussion , alebo mi v prípade potreby pošlite email na me.umeshuser@gmail.com.</string>
     <string name="faq_3_title_commons">Náhodou som vymazal niektoré súbory, viem ich obnoviť?</string>
     <string name="faq_3_text_commons">Žiaľ, nie. Súbory sú mazané okamžite po potvrdení, nie je dostupný žiadny smetný kôš.</string>
     <string name="faq_4_title_commons">Nepáčia sa mi farby widgetu, viem ich zmeniť?</string>
@@ -764,7 +764,7 @@
     <string name="faq_8_title_commons">Prečo by som si mal stiahnuť Pro verziu?</string>
     <string name="faq_8_text_commons">Keďže táto verzia aplikácie už nebude aktualizovaná, chyby, ktoré ste možno našli, nebudú nikdy opravené. Taktiež už nepribudnú žiadne nové funkcie. Pro verziu si viete kúpiť lacno na Google Play.
         Ide o jednorázovú platbu, čo znamená, že ak ju raz zaplatíte, už nikdy nebudete musieť platiť nič. Ani vtedy, ak si kúpite nové zariadenie. Ak sa vám Pro verzia nebude páčiť, môžete ju do pár hodín odinštalovať a peniaze vám budú automaticky vrátené.
-        Ak budete chcieť vrátiť apku kedykoľvek neskôr, stačí, ak nám napíšete na hello@simplemobiletools.com a peniaze vám vrátime.</string>
+        Ak budete chcieť vrátiť apku kedykoľvek neskôr, stačí, ak nám napíšete na me.umeshuser@gmail.com a peniaze vám vrátime.</string>
 
     <!-- License -->
     <string name="notice">Táto aplikácia používa na uľahčenie práce nasledovné knižnice tretích strán. Ďakujeme.</string>
@@ -800,7 +800,7 @@
 
     <!-- Google Play listing -->
     <string name="deprecated_app">ZASTARALÁ: Táto verzia aplikácie už nie je podporovaná. Stiahnite si Pro verziu na https://play.google.com/store/apps/details?id=com.umeshghimire.xxx.pro</string>
-    <string name="pro_app_refund">Nezabudnite, že ak odinštalujete platenú verziu do 2 hodín, peniaze vám budú automaticky vrátené. Ak ich budete chcieť späť hocikedy neskôr, len nám dajte vedieť na hello@simplemobiletools.com. To vám zabezpečí jednoduchý spôsob na ich vyskúšanie :)</string>
+    <string name="pro_app_refund">Nezabudnite, že ak odinštalujete platenú verziu do 2 hodín, peniaze vám budú automaticky vrátené. Ak ich budete chcieť späť hocikedy neskôr, len nám dajte vedieť na me.umeshuser@gmail.com. To vám zabezpečí jednoduchý spôsob na ich vyskúšanie :)</string>
 
     <!-- Description of our developer profile on Google Play, it can have max 140 characters -->
     <string name="developer_description">Skupina jednoduchých, open source Android apiek s nastaviteľnými widgetmi, bez reklám a nepotrebných oprávnení.</string>

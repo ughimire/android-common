@@ -22,9 +22,9 @@ install {
             }
             developers {
                 developer {
-                    id 'tibbi'
-                    name 'Tibor Kaputa'
-                    email 'hello@simplemobiletools.com'
+                    id 'ughimire'
+                    name 'Umesh Ghimire'
+                    email 'me.umeshuser@gmail.com'
                 }
             }
             scm {
