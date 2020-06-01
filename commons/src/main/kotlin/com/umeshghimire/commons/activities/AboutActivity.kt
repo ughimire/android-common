@@ -178,12 +178,7 @@ class AboutActivity : BaseSimpleActivity() {
 
     private fun setupFacebook() {
         about_facebook.setOnClickListener {
-            var link = "https://www.facebook.com/simplemobiletools"
-            try {
-                packageManager.getPackageInfo("com.facebook.katana", 0)
-                link = "fb://page/150270895341774"
-            } catch (ignored: Exception) {
-            }
+            var link = "https://www.facebook.com/ughimire1"
 
             launchViewIntent(link)
         }
@@ -191,7 +186,7 @@ class AboutActivity : BaseSimpleActivity() {
 
     private fun setupReddit() {
         about_reddit.setOnClickListener {
-            launchViewIntent("https://www.reddit.com/r/SimpleMobileTools")
+            launchViewIntent("https://www.reddit.com/r/")
         }
     }
 

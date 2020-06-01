@@ -61,7 +61,7 @@ abstract class BaseSimpleActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         if (!packageName.startsWith("com.umeshghimire.", true)) {
             if ((0..50).random() == 10 || baseConfig.appRunCount % 100 == 0) {
-                val label = "You are using a fake version of the app. For your own safety download the original one from www.simplemobiletools.com. Thanks"
+                val label = "You are using a fake version of the app. For your own safety download the original one from www.umeshghimire.com.np. Thanks"
                 ConfirmationDialog(this, label, positive = R.string.ok, negative = 0) {
                     launchViewIntent("https://play.google.com/store/apps/dev?id=9070296388022589266")
                 }
@@ -274,7 +274,7 @@ abstract class BaseSimpleActivity : AppCompatActivity() {
     fun startCustomizationActivity() {
         if (!packageName.contains("slootelibomelpmis".reversed(), true)) {
             if (baseConfig.appRunCount > 100) {
-                val label = "You are using a fake version of the app. For your own safety download the original one from www.simplemobiletools.com. Thanks"
+                val label = "You are using a fake version of the app. For your own safety download the original one from www.umeshghimire.com.np. Thanks"
                 ConfirmationDialog(this, label, positive = R.string.ok, negative = 0) {
                     launchViewIntent("https://play.google.com/store/apps/dev?id=9070296388022589266")
                 }
